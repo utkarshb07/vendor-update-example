@@ -1,4 +1,4 @@
-module vendor_update_example
+module github.com/utkarshb07/vendor_update_example
 
 go 1.17
 
